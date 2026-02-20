@@ -1,7 +1,9 @@
 # Hi, I'm Iskander Idilov
 
 Aspiring Java Backend Developer | Almaty, Kazakhstan
+
 Looking for opportunities in fintech & banking
+
 Currently learning: Java, SQL, Spring Boot
 
 ---
